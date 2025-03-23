@@ -9,7 +9,7 @@
 
 - シミュレーションコード
 ```bash
-$ git clone https://github.com/zenitani/OpenMHD
+$ git clone https://github.com/zenitani/OpenMHD.git
 ```
 
 - 解析例（このリポジトリ）
